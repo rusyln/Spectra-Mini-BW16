@@ -1,6 +1,6 @@
 # RTL8720DN + 0.96 SSD1306" TFT + 3 Buttons - Spectra Mini BW16 Dual-Band Wi-Fi Firmware
 
-![Project Banner](https://github.com/rusyln/R4TKN-FIRMWARE-BW16/blob/master/Screenshots/Banner.png)
+![Project Banner](https://github.com/rusyln/Spectra-Mini-BW16/blob/master/screenshots/1.jpg)
 
 Another Firmware for BW16 — a custom implementation for the R4TKN BW16 module featuring the RTL8720DN Wi-Fi chipset, a 0.96″ 128×64 OLED display, and a 3-button interface, focused on controlled Wi-Fi 
 
