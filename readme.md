@@ -18,9 +18,13 @@ https://t.me/+oQWjdRF1wUQyMjBl
 
 ## Features
 - Dual-band 2.4GHz/5GHz Wi-Fi deauthentication
-- TARGETED (PER CLIENT)
+- SELECT
+- DEAUTH + BEACON
 - RANDOM SSID
-- BEACON + DEAUTH
+- SPAM SSID
+- BLE RANDOM SPAM
+- BLE SAMSUNG SPAM
+- SOUR APPLE
 - Interactive TFT display interface
 - 3-button navigation control
 
